@@ -1,0 +1,8 @@
+[project]
+name = "personal-site"
+version = "0.0.1"
+description = "My living resume and personal website"
+requires-python = ">=3.13"
+dependencies = [
+    "zensical",
+]
