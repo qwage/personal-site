@@ -1,5 +1,5 @@
 [project]
-site_name = "Quinn Joyce | Living Resume"
+site_name = "Living History"
 site_description = "Quinn Joyce's personal resume website"
 site_author = "Quinn Joyce"
 repo_url = "https://github.com/qwage/personal-site"
@@ -20,6 +20,7 @@ nav = [
     { "Projects" = [
         "projects/index.md",
         { "Covid Squid" = "projects/covid_squid.md" },
+        { "Personalized Google Maps Search" = "projects/personalized_google_maps_search.md" },
         { "Wheels-Up" = "projects/wheels_up.md" },
         { "Guitar Pedal Board" = "projects/guitar_pedal_board.md" },
     ] },
